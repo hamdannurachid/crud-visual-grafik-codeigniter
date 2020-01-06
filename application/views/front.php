@@ -62,7 +62,7 @@
 			<div class="collapse navbar-collapse" id="navbarNavDropdown">
 				<ul class="navbar-nav">
 					<li class="nav-item active">
-						<a class="nav-link" href="<?php echo base_url('admin/internet') ?>">Admin</a>
+						<a class="nav-link" href="<?php echo base_url('admin/internet') ?>" target="_blank">Admin</a>
 					</li>
 
 				</ul>
